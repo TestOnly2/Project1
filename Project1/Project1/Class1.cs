@@ -12,7 +12,7 @@ namespace Project1
         {
             var s = 0;
             var dsf = 0;
-            return a * b;
+            return a + b;
         }
 
         public static int Sub(int a, int b)

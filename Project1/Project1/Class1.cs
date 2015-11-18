@@ -11,7 +11,7 @@ namespace Project1
         public static int Add(int a, int b)
         {
             var s = 0;
-            return a + b;
+            return a * b;
         }
 
         public static int Sub(int a, int b)

@@ -10,6 +10,7 @@ namespace Project1
     {
         public static int Add(int a, int b)
         {
+            int c = 0;
             return a + b;
         }
     }

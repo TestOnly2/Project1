@@ -8,10 +8,16 @@ namespace UnitTestProject1
     public class UnitTest1
     {
         [TestMethod]
-        public void TestMethod1()
+        public void TestAdd()
         {
             var expected = 6;
             var actual = Class1.Add(1, 5);
+            Assert.AreEqual(expected, actual);
+        }
+        public void TestSub()
+        {
+            var expected = -4;
+            var actual = Class1.Sub(1, 5);
             Assert.AreEqual(expected, actual);
         }
     }

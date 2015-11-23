@@ -10,5 +10,7 @@ namespace Project1
     {
         public void Tmp1() { }
         public void Tmp2() { }
+        public void Tmp3() { }
+
     }
 }

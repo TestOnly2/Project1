@@ -14,6 +14,7 @@ namespace UnitTestProject1
             var actual = Class1.Add(1, 5);
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod]
         public void TestSub()
         {
             var expected = -4;

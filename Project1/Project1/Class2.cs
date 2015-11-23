@@ -8,22 +8,6 @@ namespace Project1
 {
     public static class Class2
     {
-        public static void Tmp1()
-        {
-            int a;
-            int b;
-            int c;
-            int d;
-            int e;
-            int f;
-        }
-        public static void Tmp2()
-        {
 
-        }
-        public static void Tmp3()
-        {
-
-        }
     }
 }

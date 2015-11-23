@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project1
 {
-    class Class2
+    public static class Class2
     {
     }
 }

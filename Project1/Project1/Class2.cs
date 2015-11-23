@@ -10,7 +10,7 @@ namespace Project1
     {
         public static void Tmp1()
         {
-            in t a;
+            int a;
             int b;
             int c;
             int d;

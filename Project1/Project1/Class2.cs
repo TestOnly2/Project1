@@ -11,6 +11,7 @@ namespace Project1
         public static void Tmp1()
         {
             in t a;
+            int b;
         }
         public static void Tmp2()
         {

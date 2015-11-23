@@ -12,10 +12,5 @@ namespace Project1
         {
 
         }
-        public static void Tmp2()
-        {
-
-        }
-
     }
 }

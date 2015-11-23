@@ -11,5 +11,6 @@ namespace Project1
         public static void Tmp1() { }
         public static void Tmp2() { }
         public static void Tmp3() { }
+        public static void Tmp 4() { }
     }
 }

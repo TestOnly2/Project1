@@ -17,5 +17,10 @@ namespace Project1
         {
             return a - b;
         }
+
+        public static int Mul(int a, int b)
+        {
+            return a * b;
+        }
     }
 }

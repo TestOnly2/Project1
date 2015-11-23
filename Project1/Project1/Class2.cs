@@ -8,6 +8,6 @@ namespace Project1
 {
     public static class Class2
     {
-
+        public void Tmp1() { }
     }
 }

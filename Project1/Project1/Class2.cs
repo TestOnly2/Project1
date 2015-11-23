@@ -8,7 +8,7 @@ namespace Project1
 {
     public static class Class2
     {
-        public static void Tmp 1()
+        public static void Tmp1()
         {
 
         }

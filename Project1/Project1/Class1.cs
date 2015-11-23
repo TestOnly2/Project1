@@ -22,5 +22,10 @@ namespace Project1
         {
             return a * b;
         }
+
+        public static int Div(int a, int b)
+        {
+            return a / b;
+        }
     }
 }

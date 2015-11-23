@@ -15,6 +15,7 @@ namespace Project1
             int c;
             int d;
             int e;
+            int f;
         }
         public static void Tmp2()
         {

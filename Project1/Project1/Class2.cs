@@ -13,6 +13,7 @@ namespace Project1
             in t a;
             int b;
             int c;
+            int d;
         }
         public static void Tmp2()
         {

@@ -9,6 +9,6 @@ namespace Project1
     public static class Class2
     {
         public static void Tmp1() { }
-        public static void T mp2() { }
+        public static void Tmp2() { }
     }
 }

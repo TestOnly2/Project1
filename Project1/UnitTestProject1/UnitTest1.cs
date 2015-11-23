@@ -30,5 +30,13 @@ namespace UnitTestProject1
             var actual = Class1.Mul(4, 5);
             Assert.AreEqual(expected, actual);
         }
+
+        [TestMethod]
+        public void TestDiv()
+        {
+            var expected = 4;
+            var actual = Class1.Div(20, 5);
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

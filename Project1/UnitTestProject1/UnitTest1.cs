@@ -23,13 +23,13 @@ namespace UnitTestProject1
         //    Assert.AreEqual(expected, actual);
         //}
 
-        //[TestMethod]
-        //public void TestMul()
-        //{
-        //    var expected = 20;
-        //    var actual = Class1.Mul(4, 5);
-        //    Assert.AreEqual(expected, actual);
-        //}
+        [TestMethod]
+        public void TestMul()
+        {
+            var expected = 20;
+            var actual = Class1.Mul(4, 5);
+            Assert.AreEqual(expected, actual);
+        }
 
         //[TestMethod]
         //public void TestDiv()

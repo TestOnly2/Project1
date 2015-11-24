@@ -27,7 +27,7 @@ namespace UnitTestProject1
         public void TestMul()
         {
             var expected = 20;
-            var actual = Class1.Mul(4, 5);
+            var actual = Class1.Mul(5, 4);
             Assert.AreEqual(expected, actual);
         }
 

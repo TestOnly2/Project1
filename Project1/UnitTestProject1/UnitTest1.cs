@@ -15,13 +15,13 @@ namespace UnitTestProject1
             Assert.AreEqual(expected, actual);
         }
 
-        //[TestMethod]
-        //public void TestSub()
-        //{
-        //    var expected = -4;
-        //    var actual = Class1.Sub(1, 5);
-        //    Assert.AreEqual(expected, actual);
-        //}
+        [TestMethod]
+        public void TestSub()
+        {
+            var expected = -4;
+            var actual = Class1.Sub(1, 5);
+            Assert.AreEqual(expected, actual);
+        }
 
         //[TestMethod]
         //public void TestMul()

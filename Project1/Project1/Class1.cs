@@ -20,7 +20,7 @@ namespace Project1
 
         public static int Mul(int a, int b)                                                                              
         {                                 
-            return a * b;                                                     
+            return a + b;                                                     
         }                                                                               
                                                                
         public static int Div(int a, int b)

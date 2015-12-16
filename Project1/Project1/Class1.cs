@@ -15,7 +15,7 @@ namespace Project1
 
         public static int Sub(int a, int b)
         {
-            return a - b;
+            return a + b;
         }                                     
 
         public static int Mul(int a, int b)                                                                              
